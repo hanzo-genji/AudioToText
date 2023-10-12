@@ -1,5 +1,6 @@
 vosk-model-zh/
 vosk-model-cn2/
 audio.wav
+cropped_audio
 liuhang.m4a
 recognized_result.txt
